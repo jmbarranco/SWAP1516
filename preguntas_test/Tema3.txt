@@ -1,0 +1,18 @@
+<pregunta>
+  <enunciado>Selecciona la respuesta incorrecta: En la configuración sin DMZ...</enunciado>
+  <opcionA>Se comparten recursos </opcionA>
+  <opcionB>Los servidores de la granja web y otras máquinas estan conectadas a la misma red</opcionB>
+  <opcionC>Sólo tiene sentido en grandes empresas </opcionC>
+  <opcionD>Un problema es la compartición del ancho de banda</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Selecciona la respuesta incorrecta: En la configuración de DMZ tradicional...</enunciado>
+  <opcionA>Existe dificultad para configurar correctamente el cortafuegos</opcionA>
+  <opcionB>La idea es resolver los problemas de la configuración sin DMZ</opcionB>
+  <opcionC>Ancho de banda de la red corporativa compartido</opcionC>
+  <opcionD>El cortafuegos no es un posible cuello de botella</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
