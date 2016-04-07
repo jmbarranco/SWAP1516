@@ -1,0 +1,18 @@
+<pregunta>
+  <enunciado>Selecciona la respuesta incorrecta: El balanceo de carga global...</enunciado>
+  <opcionA>Posee alta disponibilidad</opcionA>
+  <opcionB>Es sencillo de implementar y fácil de comprender</opcionB>
+  <opcionC>Complejo si la aplicación web usa BD</opcionC>
+  <opcionD>Requiere de conocimientos DNS</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Selecciona la respuesta incorrecta: El balanceo con dispositivo hardware...</enunciado>
+  <opcionA>Organizan la red pero no reparten tráfico entre los servidores de la granja.</opcionA>
+  <opcionB>Tienen varios niveles de redundancia</opcionB>
+  <opcionC>Podemos hacer configuraciones por parejas, si uno cae, el otro asume su carga</opcionC>
+  <opcionD>Permiten la entrada/salida automática de servidores</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
