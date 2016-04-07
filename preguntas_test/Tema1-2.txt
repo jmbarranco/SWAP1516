@@ -8,10 +8,10 @@
 </pregunta>
 
 <pregunta>
-  <enunciado>el texto del enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
-  <solucion>C</solucion>
+  <enunciado>¿Cuál de estas opciones tiene mayor impacto en escalabilidad?</enunciado>
+  <opcionA>Optimización del código</opcionA>
+  <opcionB>Optimización del producto</opcionB>
+  <opcionC>Optimización del hardware</opcionC>
+  <opcionD>Diseño</opcionD>
+  <solucion>D</solucion>
 </pregunta>
