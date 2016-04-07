@@ -1,0 +1,15 @@
+#Ejercicio 2.3
+## ¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas...¡o recordar cómo usarlas! 
+
+**Titanium**: Framework libre y open source para el desarrollo de aplicaciones para dispositivos móviles y de escritorio.
+
+**jQuery**: Librería de JavaScript que facilita el desarrollo con este lenguaje.
+
+**Backbone.js**: Framework extremadamente ligero y permite utilizar el sistema de plantillas que quieras, otras liberías, etc... es bastante flexible.
+
+**NodeJS**: Es la foma de poder programas con JavaScript en el servidor.
+
+**Gulp**: Utilizando los streams que proporciona NodeJS, hizo más sencilla la implementación y ejecución de las tareas.
+
+**Browserify**: Una librería que permite llevar el modo de programación que se estaba empleando en NodeJS al lado cliente. Ahora puedes impportar módulos con el comando require sin necesidad de tener una rista de scripts en el HTML.
+
