@@ -1,10 +1,10 @@
 <pregunta>
-  <enunciado>el texto del enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
-  <solucion>C</solucion>
+  <enunciado>¿Qué tipos de escalado engloba incrementar ampliar la memoria RAM?</enunciado>
+  <opcionA>Horizontal</opcionA>
+  <opcionB>Vertical</opcionB>
+  <opcionC>Virtual</opcionC>
+  <opcionD>Ninguna opción es correcta</opcionD>
+  <solucion>B</solucion>
 </pregunta>
 
 <pregunta>
