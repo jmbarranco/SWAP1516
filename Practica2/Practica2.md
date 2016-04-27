@@ -1,5 +1,6 @@
 #Practica 2
 **José Manuel Barranco**
+
 Primero, comprobamos que las máquinas virtuales puedan comunicarse. Realizamos un ping a cada una de las IP. 
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/Practica2/2.1.png?raw=true)
 Sincronizamos la carpeta /var/www de la máquina 2 con la 1.
