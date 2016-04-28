@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado> FTP tiene como métrica más importante... </enunciado>
+  <opcionA>Rendimiento</opcionA>
+  <opcionB>Conexiones por segundo</opcionB>
+  <opcionC>Total de conexiones concurrentes</opcionC>
+  <opcionD>Otra</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué prueba consiste en aplicar fuertes picos de carga durante cortos periodos?</enunciado>
+  <opcionA>Estrés</opcionA>
+  <opcionB>Humo</opcionB>
+  <opcionC>Carga</opcionC>
+  <opcionD>Sobrecarga</opcionD>
+  <solucion>D</solucion>
+</pregunta>
