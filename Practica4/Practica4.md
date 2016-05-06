@@ -19,6 +19,8 @@
 
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/Practica4/4.7.png)
 
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/Practica4/grafica_local.png)
+
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/Practica4/grafica_haproxy.png)
 
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/Practica4/grafica_nginx.png)
