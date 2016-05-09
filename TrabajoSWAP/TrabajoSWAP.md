@@ -31,27 +31,27 @@ El problema es gestionar de manera unificada una base de datos de la que hay alm
 
 	-*Totalmente conectada*
 	
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Totalmente-conectada.png)	
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Totalmente-conectada.png)	
 
 	-*Parcialmente conectada*
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Parcialmente-conectada.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Parcialmente-conectada.png)
 
 	-*Estrella*
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Estrella.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Estrella.png)
 
 	-*Anillo*
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Anillo.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Anillo.png)
 
 	-*Estructura de árbol*
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Estructura-de-arbol.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Estructura-de-arbol.png)
 
 **Distribución del problema**
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Localidades.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/Localidades.png)
 	
 **Tipos de fragmentación:**
 
@@ -104,18 +104,18 @@ El problema es gestionar de manera unificada una base de datos de la que hay alm
 
 **Ejemplo disparadores**
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/disparadores/Pedido-ciente-sucursal.png)
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/disparadores/salario-menor.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/disparadores/Pedido-ciente-sucursal.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/disparadores/salario-menor.png)
 
 **Ejemplo procedimientos**
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/procedimientos/alta-cliente.png)
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/procedimientos/trasladar-empleado.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/procedimientos/alta-cliente.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/procedimientos/trasladar-empleado.png)
 
 **Ejemplo índices**
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/indices/cliente.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/indices/cliente.png)
 
 **Ejemplo vistas**
 
-	![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/vistas/sucursal.png)
+![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/vistas/sucursal.png)
