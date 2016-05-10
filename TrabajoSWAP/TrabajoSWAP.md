@@ -1,8 +1,12 @@
 #Bases de Datos Distribuidas
 **José Manuel Barranco**
 
-![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/Practica4/4.1.png)
+**Qué es una Base de Datos Distribuida (BDD) y un Sistema de Gestión de Bases de Datos (SGBD):** 
 
+Una base de datos distribuida (BDD) es un conjunto de múltiples bases de datos lógicamente relacionadas las cuales se encuentran distribuidas en diferentes espacios lógicos y geográficos e interconectados por una red de comunicaciones. Dichas BDD tienen la capacidad de realizar procesamiento autónomo, esto permite realizar operaciones locales o distribuidas.
+
+
+ 
 **Ventajas bases de datos distribuidas y/o replicadas:** 
 
 Una BDD garantiza que cada centro (en caso de usar cada uno el 80% de los datos de su propio centro), si no falla su propio ordenador, puede trabajar al menos al 80%.
@@ -104,18 +108,26 @@ El problema es gestionar de manera unificada una base de datos de la que hay alm
 
 **Ejemplo disparadores**
 
+Se ejecutan cuando sucede algún evento sobre las tablas a las que se encuentra asociado. Los eventos que hacen que se ejecute un disparador son las operaciones de inserción (INSERT), borrado (DELETE) o actualización (UPDATE), ya que modifican los datos de una tabla.
+
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/disparadores/Pedido-ciente-sucursal.png)
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/disparadores/salario-menor.png)
 
 **Ejemplo procedimientos**
+
+La ventaja de un procedimiento almacenado es que al ser ejecutado, es ejecutado directamente en el motor de bases de datos, el cual usualmente corre en un servidor separado. Usos típicos para procedimientos almacenados incluyen la validación de datos siendo integrados a la estructura de base de datos.
 
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/procedimientos/alta-cliente.png)
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/procedimientos/trasladar-empleado.png)
 
 **Ejemplo índices**
 
+El índice de una base de datos es una estructura de datos que mejora la velocidad de las operaciones, por medio de identificador único de cada fila de una tabla, permitiendo un rápido acceso a los registros de una tabla en una base de datos.
+
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/indices/cliente.png)
 
 **Ejemplo vistas**
+
+Una vista es una consulta que se presenta como una tabla (virtual) a partir de un conjunto de tablas en una base de datos relacional.
 
 ![texto alternativo](https://github.com/jmbarranco/SWAP1516/blob/master/Imagenes/TrabajoSWAP/vistas/sucursal.png)
