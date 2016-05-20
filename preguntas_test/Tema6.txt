@@ -1,5 +1,5 @@
 <pregunta>
-  <enunciado>¿Qué procedimiento de autenticación es más efectivo?</enunciado>
+  <enunciado>¿Qué procedimiento de autenticación es más efectivo? </enunciado>
   <opcionA>Una tarjeta física</opcionA>
   <opcionB>Una clave</opcionB>
   <opcionC>PIN</opcionC>

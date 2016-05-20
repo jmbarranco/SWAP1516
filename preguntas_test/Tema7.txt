@@ -1,5 +1,5 @@
 <pregunta>
-  <enunciado>¿Qué estrategia alternativa a la replicación completa para mejorar el sistema de almacenamiento y BD consiste en hacer una división logica de la BD en función del tipo de clientes?</enunciado>
+  <enunciado>¿Qué estrategia alternativa a la replicación completa para mejorar el sistema de almacenamiento y BD consiste en hacer una división logica de la BD en función del tipo de clientes? </enunciado>
   <opcionA>Segmentar la BD</opcionA>
   <opcionB>Realizar distrubución funcional</opcionB>
   <opcionC>Las dos anteriores</opcionC>
