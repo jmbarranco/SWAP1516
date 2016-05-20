@@ -1,0 +1,18 @@
+<pregunta>
+  <enunciado>¿Qué procedimiento de autenticación es más efectivo?</enunciado>
+  <opcionA>Una tarjeta física</opcionA>
+  <opcionB>Una clave</opcionB>
+  <opcionC>PIN</opcionC>
+  <opcionD>Huella dactilar</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Para asegurar un servidor, es necesario eliminar...</enunciado>
+  <opcionA>Servicios</opcionA>
+  <opcionB>Configuraciones e</opcionB>
+  <opcionC>Todas las aplicaciones y puertos</opcionC>
+  <opcionD>Información de seguridad del servidor</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
